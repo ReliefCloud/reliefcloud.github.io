@@ -1,12 +1,9 @@
 ---
 layout: default
-img: phones.png
-category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+img: hax-app.png
+category: About
+title: Web and Mobile Applications
 description: |
-  <p class="lead">This template features the 'Lato' font,
-  part of the <a target="_blank" href="http://www.google.com/fonts">Google
-  Web Font library</a>, as well as <a target="_blank"
-  href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+  <p class="lead">An open data standard and API will allow for the development of websites and mobile apps that improve coordination.  An example application might dsiplay the a Humanitarian Activity Stream for users responsing to a a specific disaster event with real-time updates pushed form the app via the HAX API.  Or maybe an organization has servers log training and distribution when they happen, allowing for real time reporting back to donors</p>
 
 ---

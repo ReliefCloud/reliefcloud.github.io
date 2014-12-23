@@ -2,9 +2,9 @@
 layout: default
 img: json.png
 category: About
-title: Humanitarian Activity Exchange
+title: Humanitarian Activity Stream
 description: |
-  Develop an external vocabulary for <a
-  target="_blank" href="http://activitystrea.ms/">activitystre.ms</a> schema which includes object definitions specific to crisis response.  This is the basis of a Humanitarian Activity Exchange (HAX).  An open source, community developed standard that will allow web and mobile applications to share humanitarian workers activities to improvbe coordiation and accountability. 
+  We are developing an external vocabulary for <a
+  target="_blank" href="http://activitystrea.ms/">activitystre.ms</a> schema which includes object definitions specific to crisis response.  This is the basis of a Humanitarian Activity Stream (HAS).  An open source, community developed standard that will allow web and mobile applications to share humanitarian worker's activities to improvbe coordiation and accountability. 
 
 ---
