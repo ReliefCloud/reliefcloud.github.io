@@ -4,6 +4,6 @@ img: has-badge.png
 category: About
 title: Humanitarian Activity Exchange
 description: |
-  <p class="lead">We are working toward an open source, decentralized server for storing humanitarian activities and serving Humanitarian Activity Streams.  The open API will allow authenticated third party applications to consume and/or create humanitarian acitivites streams.   Follow an organization or individual and receive realtime updates.  The data is decentralized on the server.  It's open source so relief organizations can run thier own servers and own thier data.</p>
+  <p class="lead">We are working toward an open source, decentralized server for storing humanitarian activities and serving Humanitarian Activity Streams.  The open API will allow authenticated third party applications to consume and/or create humanitarian acitivites streams.   Follow an organization or individual and receive realtime updates.  The data is decentralized on an organization's or individual's server.  It's open source so relief organizations can run thier own servers and own thier data.</p>
 
 ---
